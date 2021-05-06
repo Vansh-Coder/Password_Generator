@@ -8,4 +8,4 @@ How to use ?
 3. Enter your desired password length, note that it cannot be less than the sum of all minimum characters of each requirement. However, it can be a value greater than (or equal      to) that sum.
 4. Click 'Generate' and BOOM ! Here is your newly generated cryptographically secure password. If you don't like it, you can keep pressing 'Generate' to get a new one. You can        click 'Copy' to directly copy the password to your clipboard.
 
-Note: It does NOT store any password selected by you or keep any kind of track. It's purely safe, and you can verify the same by checking out the code.
+Note: It does NOT store any password selected by you or keep any kind of track. It's purely safe, and you can verify the same by checking out the code. Also, this code is licensed under the open source MIT License. Feel free to use it !
